@@ -24,7 +24,7 @@ the window to a single color and coordinate (think like a palette in gifs).
 ![Original](test_image_original.png)
 
 ### Compressed
-![Result](test_image_dct.png)
+![Result](test_image_original_dct.png)
 
 ## Outlook
 1. This project is probably going sit here and die.
